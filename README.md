@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Deep Machine Learning, Django, MySQL**
 
-- All my small projects are available [https://github.com/Abbasmo72](https://github.com/Abbasmo72)
+- Since I am a football fan, I am working on a very interesting project using machine learning, and I am also including the CSV files that I am extracting for you in several repositories.
+I hope it will be useful to you.
 
 - 💬 Ask me about **Python and ML and Network**
 
