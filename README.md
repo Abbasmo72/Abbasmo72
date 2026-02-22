@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasmo72&label=Profile%20views&color=0e75b6&style=flat" alt="abbasmo72" /> </p>
 
 - I’m working and continuing my programming career under political and social repression in Iran. All my activities depend on the speed of the internet or whether it’s cut off. My entire life is affected by the dictatorship in Iran.
+But I still keep working and doing my best as much as I can.
+Long live the people of Iran and my country, Iran.
 
 - 🌱 I’m currently learning **Deep Machine Learning, Django, MySQL**
 
