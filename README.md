@@ -3,6 +3,8 @@
 <img align="right" alt="Gif" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasmo72&label=Profile%20views&color=0e75b6&style=flat" alt="abbasmo72" /> </p>
 
+- I’m working and continuing my programming career under political and social repression in Iran. All my activities depend on the speed of the internet or whether it’s cut off. My entire life is affected by the dictatorship in Iran.
+
 - 🌱 I’m currently learning **Deep Machine Learning, Django, MySQL**
 
 - Since I am a football fan, I am working on a very interesting project using machine learning, and I am also including the CSV files that I am extracting for you in several repositories.
